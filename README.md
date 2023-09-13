@@ -1,2 +1,2 @@
-# powerbi_task_guvi
+# powerbi_task
 Walmart Superstore Data Task 
